@@ -4,7 +4,7 @@
 call plug#begin()
 
 " Aesthetics - Main
-Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'revanthstrakz/dracula-vim', { 'as': 'dracula' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'bryanmylee/vim-colorscheme-icons'
