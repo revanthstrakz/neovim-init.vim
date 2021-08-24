@@ -71,7 +71,7 @@ set textwidth=0
 set hidden
 set number
 set title
-
+set mouse=a
 """ Coloring
 
 " Functions and autocmds to run whenever changing colorschemes
